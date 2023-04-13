@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "orval": "^2.6.0"
+  },
+  "scripts": {
+    "orval": "./node_modules/orval/lib/bin/orval.js --config ./orval.config.js"
+  }
+}

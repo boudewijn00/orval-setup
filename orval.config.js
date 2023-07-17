@@ -1,10 +1,10 @@
  module.exports = {
     'tapp-api': {
         output: {
-            target: 'src/propositions.ts',
+            target: 'src/output.ts',
         },
         input: {
-          target: '',
+          target: '../../tapp/tapp-open-api/schemas/open-api.json',
         },
     },
  };
